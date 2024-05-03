@@ -1,0 +1,51 @@
+Scenario,Character1,Points1,Character2,Points2
+"Divide 5 shampoos, 5 conditioners among each other","Each shampoo is worth 17 points, Each conditioner is worth 9 points",130,"Each shampoo is worth 11 points, Each conditioner is worth 20 points",155
+"Divide 5 flowers, 3 pots, 4 soils among each other","Each flower is worth 13 points, Each pot is worth 7 points, Each soil is worth 8 points",118,"Each flower is worth 9 points, Each pot is worth 7 points, Each soil is worth 7 points",94
+"Divide 5 notebooks, 4 pens among each other","Each notebook is worth 15 points, Each pen is worth 8 points",107,"Each notebook is worth 16 points, Each pen is worth 9 points",116
+"Divide 3 towels, 4 soaps among each other","Each towel is worth 12 points, Each soap is worth 11 points",80,"Each towel is worth 13 points, Each soap is worth 15 points",99
+"Divide 5 phones, 2 chargers among each other","Each phone is worth 17 points, Each charger is worth 11 points",107,"Each phone is worth 10 points, Each charger is worth 14 points",78
+"Divide 5 phones, 3 chargers among each other","Each phone is worth 18 points, Each charger is worth 4 points",102,"Each phone is worth 10 points, Each charger is worth 19 points",107
+"Divide 5 notebooks, 3 pens among each other","Each notebook is worth 7 points, Each pen is worth 17 points",86,"Each notebook is worth 1 points, Each pen is worth 20 points",65
+"Divide 5 books, 5 markers among each other","Each book is worth 13 points, Each marker is worth 9 points",110,"Each book is worth 8 points, Each marker is worth 15 points",115
+"Divide 4 shampoos, 3 conditioners among each other","Each shampoo is worth 3 points, Each conditioner is worth 18 points",66,"Each shampoo is worth 6 points, Each conditioner is worth 5 points",39
+"Divide 1 shampoos, 3 conditioners among each other","Each shampoo is worth 18 points, Each conditioner is worth 11 points",51,"Each shampoo is worth 6 points, Each conditioner is worth 5 points",21
+"Divide 1 books, 1 markers among each other","Each book is worth 12 points, Each marker is worth 2 points",14,"Each book is worth 2 points, Each marker is worth 3 points",5
+"Divide 4 cups, 5 saucers among each other","Each cup is worth 6 points, Each saucer is worth 19 points",119,"Each cup is worth 9 points, Each saucer is worth 4 points",56
+"Divide 5 spoons, 3 plates among each other","Each spoon is worth 14 points, Each plate is worth 1 points",73,"Each spoon is worth 11 points, Each plate is worth 20 points",115
+"Divide 2 towels, 5 soaps among each other","Each towel is worth 2 points, Each soap is worth 9 points",49,"Each towel is worth 10 points, Each soap is worth 10 points",70
+"Divide 3 spoons, 1 plates among each other","Each spoon is worth 19 points, Each plate is worth 4 points",61,"Each spoon is worth 7 points, Each plate is worth 6 points",27
+"Divide 2 towels, 5 soaps among each other","Each towel is worth 14 points, Each soap is worth 7 points",63,"Each towel is worth 17 points, Each soap is worth 19 points",129
+"Divide 4 towels, 4 soaps among each other","Each towel is worth 2 points, Each soap is worth 1 points",12,"Each towel is worth 14 points, Each soap is worth 4 points",72
+"Divide 4 cups, 2 saucers among each other","Each cup is worth 18 points, Each saucer is worth 8 points",88,"Each cup is worth 8 points, Each saucer is worth 16 points",64
+"Divide 1 shampoos, 2 conditioners among each other","Each shampoo is worth 18 points, Each conditioner is worth 6 points",30,"Each shampoo is worth 6 points, Each conditioner is worth 6 points",18
+"Divide 2 notebooks, 4 pens among each other","Each notebook is worth 8 points, Each pen is worth 5 points",36,"Each notebook is worth 4 points, Each pen is worth 11 points",52
+"Divide 1 sockss, 1 hats among each other","Each socks is worth 3 points, Each hat is worth 8 points",11,"Each socks is worth 3 points, Each hat is worth 16 points",19
+"Divide 2 spoons, 2 plates among each other","Each spoon is worth 1 points, Each plate is worth 11 points",24,"Each spoon is worth 5 points, Each plate is worth 10 points",30
+"Divide 3 books, 2 markers among each other","Each book is worth 9 points, Each marker is worth 5 points",37,"Each book is worth 18 points, Each marker is worth 18 points",90
+"Divide 2 notebooks, 3 pens among each other","Each notebook is worth 13 points, Each pen is worth 20 points",86,"Each notebook is worth 14 points, Each pen is worth 9 points",55
+"Divide 4 flowers, 4 pots, 2 soils among each other","Each flower is worth 10 points, Each pot is worth 3 points, Each soil is worth 1 points",54,"Each flower is worth 14 points, Each pot is worth 1 points, Each soil is worth 16 points",92
+"Divide 4 towels, 4 soaps among each other","Each towel is worth 7 points, Each soap is worth 1 points",32,"Each towel is worth 18 points, Each soap is worth 17 points",140
+"Divide 3 flowers, 4 pots, 2 soils among each other","Each flower is worth 5 points, Each pot is worth 11 points, Each soil is worth 12 points",83,"Each flower is worth 15 points, Each pot is worth 18 points, Each soil is worth 9 points",135
+"Divide 1 chairs, 5 tables, 2 lamps among each other","Each chair is worth 17 points, Each table is worth 8 points, Each lamp is worth 8 points",73,"Each chair is worth 12 points, Each table is worth 7 points, Each lamp is worth 5 points",57
+"Divide 3 chairs, 3 tables, 1 lamps among each other","Each chair is worth 7 points, Each table is worth 4 points, Each lamp is worth 7 points",40,"Each chair is worth 12 points, Each table is worth 10 points, Each lamp is worth 6 points",72
+"Divide 3 flowers, 3 pots, 1 soils among each other","Each flower is worth 14 points, Each pot is worth 10 points, Each soil is worth 9 points",81,"Each flower is worth 14 points, Each pot is worth 12 points, Each soil is worth 18 points",96
+"Divide 2 phones, 4 chargers among each other","Each phone is worth 18 points, Each charger is worth 3 points",48,"Each phone is worth 8 points, Each charger is worth 2 points",24
+"Divide 2 shampoos, 1 conditioners among each other","Each shampoo is worth 17 points, Each conditioner is worth 3 points",37,"Each shampoo is worth 11 points, Each conditioner is worth 5 points",27
+"Divide 5 shampoos, 2 conditioners among each other","Each shampoo is worth 5 points, Each conditioner is worth 15 points",55,"Each shampoo is worth 12 points, Each conditioner is worth 11 points",82
+"Divide 3 towels, 1 soaps among each other","Each towel is worth 14 points, Each soap is worth 10 points",52,"Each towel is worth 12 points, Each soap is worth 12 points",48
+"Divide 1 cups, 5 saucers among each other","Each cup is worth 17 points, Each saucer is worth 2 points",27,"Each cup is worth 12 points, Each saucer is worth 4 points",32
+"Divide 2 cups, 3 saucers among each other","Each cup is worth 4 points, Each saucer is worth 7 points",29,"Each cup is worth 20 points, Each saucer is worth 5 points",55
+"Divide 5 books, 1 markers among each other","Each book is worth 16 points, Each marker is worth 7 points",87,"Each book is worth 17 points, Each marker is worth 14 points",99
+"Divide 3 phones, 1 chargers among each other","Each phone is worth 13 points, Each charger is worth 17 points",56,"Each phone is worth 16 points, Each charger is worth 18 points",66
+"Divide 2 cups, 1 saucers among each other","Each cup is worth 10 points, Each saucer is worth 12 points",32,"Each cup is worth 6 points, Each saucer is worth 17 points",29
+"Divide 1 flowers, 1 pots, 1 soils among each other","Each flower is worth 4 points, Each pot is worth 3 points, Each soil is worth 16 points",23,"Each flower is worth 8 points, Each pot is worth 9 points, Each soil is worth 19 points",36
+"Divide 1 shampoos, 4 conditioners among each other","Each shampoo is worth 5 points, Each conditioner is worth 3 points",17,"Each shampoo is worth 14 points, Each conditioner is worth 5 points",34
+"Divide 5 towels, 3 soaps among each other","Each towel is worth 14 points, Each soap is worth 12 points",106,"Each towel is worth 15 points, Each soap is worth 18 points",129
+"Divide 5 flowers, 5 pots, 4 soils among each other","Each flower is worth 10 points, Each pot is worth 16 points, Each soil is worth 15 points",190,"Each flower is worth 8 points, Each pot is worth 13 points, Each soil is worth 10 points",145
+"Divide 1 shampoos, 5 conditioners among each other","Each shampoo is worth 17 points, Each conditioner is worth 10 points",67,"Each shampoo is worth 12 points, Each conditioner is worth 10 points",62
+"Divide 2 chairs, 4 tables, 4 lamps among each other","Each chair is worth 14 points, Each table is worth 18 points, Each lamp is worth 5 points",120,"Each chair is worth 1 points, Each table is worth 9 points, Each lamp is worth 9 points",74
+"Divide 5 towels, 2 soaps among each other","Each towel is worth 1 points, Each soap is worth 2 points",9,"Each towel is worth 1 points, Each soap is worth 5 points",15
+"Divide 4 books, 2 markers among each other","Each book is worth 5 points, Each marker is worth 17 points",54,"Each book is worth 3 points, Each marker is worth 19 points",50
+"Divide 5 towels, 3 soaps among each other","Each towel is worth 17 points, Each soap is worth 19 points",142,"Each towel is worth 18 points, Each soap is worth 12 points",126
+"Divide 4 sockss, 1 hats among each other","Each socks is worth 7 points, Each hat is worth 2 points",30,"Each socks is worth 13 points, Each hat is worth 19 points",71
+"Divide 5 chairs, 4 tables, 4 lamps among each other","Each chair is worth 12 points, Each table is worth 14 points, Each lamp is worth 11 points",160,"Each chair is worth 10 points, Each table is worth 8 points, Each lamp is worth 17 points",150
